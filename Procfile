@@ -1,2 +1,1 @@
-web: echo "useless"
-worker: cd game && python app.py
+web: cd game && python app.py
