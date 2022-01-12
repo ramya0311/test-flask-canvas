@@ -1,1 +1,1 @@
-web: cd game && python app.py
+worker: cd game && python app.py
